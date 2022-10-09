@@ -799,3 +799,19 @@ color: #5C5C5C;
 .footer_col_one li{
   padding-top: 17px;
 }
+
+form{
+  text-align: center;
+}
+
+form h1{
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 46px;
+  line-height: 57px;
+}
+  
+form label{
+  padding: 10px;
+}
